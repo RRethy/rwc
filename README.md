@@ -1,6 +1,6 @@
 # rwc
 
-Rust implementation of wc with a slightly nicer UI.
+Rust implementation of wc with a slightly nicer UI and slightly faster for all operations.
 
 The git history is gone because this was originally a minor component of another project. However, it was getting out of scope and didn't really belong so I'm putting the relevant code into its own repo.
 
